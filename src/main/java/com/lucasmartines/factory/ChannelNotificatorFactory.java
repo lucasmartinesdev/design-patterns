@@ -1,6 +1,5 @@
 package com.lucasmartines.factory;
 
-import com.lucasmartines.strategy.Channel;
 import com.lucasmartines.strategy.strategies.ChannelNotificator;
 import com.lucasmartines.strategy.strategies.EmailStrategy;
 import com.lucasmartines.strategy.strategies.SmsStrategy;

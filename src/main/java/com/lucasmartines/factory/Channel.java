@@ -1,4 +1,4 @@
-package com.lucasmartines.strategy;
+package com.lucasmartines.factory;
 
 public enum Channel {
     EMAIL,

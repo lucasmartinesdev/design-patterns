@@ -3,7 +3,7 @@ package com.lucasmartines;
 
 import com.lucasmartines.builder.Message;
 import com.lucasmartines.factory.ChannelNotificatorFactory;
-import com.lucasmartines.strategy.Channel;
+import com.lucasmartines.factory.Channel;
 import com.lucasmartines.strategy.strategies.ChannelNotificator;
 
 public class Main {

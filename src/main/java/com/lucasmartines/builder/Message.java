@@ -6,7 +6,7 @@ public class Message {
     private String subject;
     private String body;
 
-    private Message() {
+    protected Message() {
 
     }
 
